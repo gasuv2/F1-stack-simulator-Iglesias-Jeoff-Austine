@@ -1,5 +1,9 @@
 # Flask Stack Simulator startup template
 
+Iglesias, Jeoff Austine / BSIT WMT 4-2
+[https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter.git]
+(https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter.git)
+
 This is the unfinished repository for a pre-demo reading activity. Read `Flask_PreDemo_Reading_Activity.pdf` first. 
 
 ## Before the demonstration
